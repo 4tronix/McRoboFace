@@ -1,0 +1,8 @@
+neopixel.py
+setup.py
+strandtest.py
+mcroboface.egg-info/PKG-INFO
+mcroboface.egg-info/SOURCES.txt
+mcroboface.egg-info/dependency_links.txt
+mcroboface.egg-info/requires.txt
+mcroboface.egg-info/top_level.txt
